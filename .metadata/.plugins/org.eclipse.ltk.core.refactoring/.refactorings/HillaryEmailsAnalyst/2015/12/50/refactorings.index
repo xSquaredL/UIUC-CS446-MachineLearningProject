@@ -1,0 +1,15 @@
+1449636210084	Rename package 'com.uiuc.cs446'
+1449636372859	Rename type 'DataGenerator'
+1449636480533	Move source folder
+1449636523755	Move folder
+1449636531336	Delete element
+1449636564668	Delete element
+1449636573672	Delete element
+1449815039030	Copy file
+1449815057791	Delete element
+1449891391224	Rename local variable 'dict'
+1449893302745	Rename type 'DataHandler'
+1449895274965	Rename local variable 'dictSet'
+1449897079827	Rename method 'getWordCount'
+1449902913801	Rename local variable 'writer'
+1449903456187	Rename field 'features'

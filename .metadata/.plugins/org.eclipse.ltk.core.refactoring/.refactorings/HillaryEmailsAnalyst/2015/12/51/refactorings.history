@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;HillaryExplorer.java&apos; to &apos;com.cs446.ml.HillaryExplorer.java&apos;&#x0A;- Original project: &apos;HillaryEmailsAnalyst&apos;&#x0A;- Destination element: &apos;com.cs446.ml.HillaryExplorer.java&apos;&#x0A;- Original element: &apos;com.cs446.ml.HillaryExplorer.java&apos;" description="Copy compilation unit" destination="/src&lt;com.cs446.ml{HillaryExplorer.java" element1="/src&lt;com.cs446.ml{HillaryExplorer.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1450039581542" units="1" version="1.0"/>
+</session>
